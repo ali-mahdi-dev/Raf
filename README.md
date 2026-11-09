@@ -54,6 +54,8 @@ this is the most common structure form for data and it's easy to store it in loc
 To install "Raf" library you need to downloading `raf_v0.1.js` file from this repository and adding it to your project locally.
 > Make sure you are writing the right file path.
 
+> Make sure your main javascript file have `type="module"`
+
 
 ## How To use:
 
